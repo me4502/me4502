@@ -1,6 +1,6 @@
 ### Hey 😁 I'm Maddy / Me4502 🎉
 
-I'm a Software Engineer at [Clipchamp](https://clipchamp.com/en/) 🎬 at Microsoft mostly working in [Typescript](https://www.typescriptlang.org/). We make an entirely client-side in-browser video editor 🤯.
+I'm a Software Engineer at [Clipchamp](https://clipchamp.com/en/) 🎬 at [Microsoft](https://www.microsoft.com/) mostly working in [Typescript](https://www.typescriptlang.org/). We make an entirely client-side in-browser video editor 🤯.
 
 I also do a lot of work on Minecraft-related projects. Some of what I work on is,
 
