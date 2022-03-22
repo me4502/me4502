@@ -10,3 +10,5 @@ I also do a lot of work on Minecraft-related projects. Some of what I work on is
 - [And many more things!](https://madelinemiller.dev/minecraft/)
 
 I also have a [blog](https://madelinemiller.dev/blog/) 📝 where I write about random tech or other things, and a [personal portfolio site](https://madelinemiller.dev/) that contains a lot of things I've made!
+
+![Me4502's GitHub stats](https://github-readme-stats.vercel.app/api?username=me4502&count_private=true)
